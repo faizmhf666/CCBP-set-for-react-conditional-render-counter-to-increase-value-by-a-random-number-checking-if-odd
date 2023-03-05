@@ -1,0 +1,32 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.bg-container {
+  background-image: linear-gradient(#ff6e7f, #bfe9ff);
+  background-size: cover;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  font-family: 'Roboto';
+}
+.title {
+  margin-bottom: 50px;
+  font-size: 50px;
+}
+.type {
+  margin-bottom: 30px;
+  font-size: 30px;
+  color: #334155;
+}
+.btn {
+  padding: 6px;
+  width: 180px;
+  margin-bottom: 30px;
+  font-size: 18px;
+}
+.end-para {
+  color: #334155;
+}
